@@ -1505,7 +1505,6 @@
 				-ms-transform: translateY(0);
 				transform: translateY(0);
 				opacity: 1;
-        text-align: -webkit-center;
 			}
 
 			#main article .close {

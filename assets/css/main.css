@@ -583,6 +583,11 @@
     font-weight: bold;
 	}
 
+  .initials {
+    font-size: 60px;
+    text-decoration: underline;
+  }
+
 		.icon:before {
 			-moz-osx-font-smoothing: grayscale;
 			-webkit-font-smoothing: antialiased;
@@ -1220,7 +1225,7 @@
 		}
 
 			#header > *:before {
-				content: '';
+				/* content: ''; */
 				display: block;
 				position: absolute;
 				top: calc(-3.5rem - 1px);
@@ -1242,7 +1247,7 @@
 			width: 5.5rem;
 			height: 5.5rem;
 			line-height: 5.5rem;
-			border: solid 1px #ffffff;
+			/* border: solid 1px #ffffff; */
 			border-radius: 100%;
 		}
 
@@ -1251,7 +1256,7 @@
 			}
 
 		#header .content {
-			border-style: solid;
+			/* border-style: solid; */
 			border-color: #ffffff;
 			border-top-width: 1px;
 			border-bottom-width: 1px;
@@ -1291,7 +1296,7 @@
 			margin-bottom: 0;
 			list-style: none;
 			padding-left: 0;
-			border: solid 1px #ffffff;
+			/* border: solid 1px #ffffff; */
 			border-radius: 4px;
 		}
 

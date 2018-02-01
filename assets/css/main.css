@@ -265,7 +265,7 @@
 	hr {
 		border: 0;
 		border-bottom: solid 1px #ffffff;
-		margin: 2.75rem 0;
+		padding: inherit;
 	}
 
 	.align-left {
